@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../pyworks"
+		},
+		{
+			"path": "../BYUcodes"
+		},
+		{
+			"path": "../BYU_code_along"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
